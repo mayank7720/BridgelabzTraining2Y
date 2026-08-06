@@ -1,5 +1,4 @@
 # BridgelabzTraining2Y
-# BridgelabzTraining2Y
 
 **Instructor**: Sameer Katta 
 **Classroom**: GLA-Java-2Y-AL  
